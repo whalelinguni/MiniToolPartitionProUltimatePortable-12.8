@@ -1,6 +1,6 @@
 # MiniTool Partition Wizard Pro Ultimate Portable (x86_x64) v12.8
 
-![MiniTool Partition Wizard Pro Ultimate](https://www.partitionwizard.com/images/screenshot/partition-wizard-02.jpg)
+![MiniTool Partition Wizard Pro Ultimate](https://github.com/whalelinguni/MiniToolPartitionProUltimatePortable-12.8/blob/main/MiniToolPPPSS.png?raw=true)
 
 MiniTool Partition Wizard Pro Ultimate is a comprehensive disk management software designed to optimize disk usage and protect your data. With powerful features and an intuitive interface, it allows you to easily manage partitions, migrate OS to SSD/HD, convert disk style between MBR and GPT without data loss, rebuild MBR, recover lost partitions, and much more.
 
@@ -41,9 +41,11 @@ MiniTool Partition Wizard Pro Ultimate Portable (x86_x64) v12.8 is available und
 
 For any inquiries or technical support, please visit the [official support page](https://www.partitionwizard.com/support.html).
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwhalelinguni%2FMiniToolPartitionProUltimatePortable-12.8&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=shrimps+collected.&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ## Disclaimer
 
 This repository is not affiliated with MiniTool Partition Wizard. For official support and inquiries, please contact MiniTool Partition Wizard directly.
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwhalelinguni%2FMiniToolPartitionProUltimatePortable-12.8&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=shrimps+collected.&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
