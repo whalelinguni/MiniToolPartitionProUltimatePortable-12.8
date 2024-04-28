@@ -6,6 +6,12 @@ MiniTool Partition Wizard Pro Ultimate is a comprehensive disk management softwa
 
 ## Features
 
+- Full Pro-Ultimate
+- Created from official portable binaries
+- Includes both x86 & x64
+- Enjoy?
+- Collect shrimps.
+
 - **Partition Management**: Create, resize, move, merge, split, format, delete, and hide/unhide partitions effortlessly.
 - **Disk Management**: Convert disk style between MBR and GPT, clone disk, wipe disk, and rebuild MBR.
 - **Data Recovery**: Recover lost or deleted partitions, recover data from damaged partitions or disks.
@@ -19,7 +25,7 @@ MiniTool Partition Wizard Pro Ultimate is a comprehensive disk management softwa
 
 ## Download
 
-You can download MiniTool Partition Wizard Pro Ultimate Portable (x86_x64) v12.8 from the official website [here](https://www.partitionwizard.com/partition-magic-free.html). The portable setup file name is MiniToolPartitionProPortable_12.8.0.paf.exe.
+- MiniToolPartitionProPortable_12.8.0.paf.exe
 
 ## Usage
 
