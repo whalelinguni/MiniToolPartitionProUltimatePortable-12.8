@@ -41,6 +41,8 @@ MiniTool Partition Wizard Pro Ultimate Portable (x86_x64) v12.8 is available und
 
 For any inquiries or technical support, please visit the [official support page](https://www.partitionwizard.com/support.html).
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwhalelinguni%2FMiniToolPartitionProUltimatePortable-12.8&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=shrimps+collected.&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ## Disclaimer
 
 This repository is not affiliated with MiniTool Partition Wizard. For official support and inquiries, please contact MiniTool Partition Wizard directly.
