@@ -25,7 +25,7 @@ MiniTool Partition Wizard Pro Ultimate is a comprehensive disk management softwa
 
 ## Download
 
-- MiniToolPartitionProPortable_12.8.0.paf.exe
+- [MiniToolPartitionProPortable_12.8.0.paf.exe](https://github.com/whalelinguni/MiniToolPartitionProUltimatePortable-12.8/blob/main/MiniToolPartitionProPortable_12.8.0.paf.exe)
 
 ## Usage
 
